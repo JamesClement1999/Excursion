@@ -32,3 +32,10 @@ html {
 center {
   img-align: center;
 }
+
+.final {
+  color: Grey;
+  text-align: right;
+  font-family: Verdana;
+  font-size: 16px;
+}
